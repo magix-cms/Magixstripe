@@ -1,0 +1,11 @@
+{
+  "name": "Magixstripe",
+  "version": "1.0.0",
+  "description": "Passerelle de paiement Stripe (Checkout) pour Magixcartpay et paiements directs.",
+  "author": "Gerits Aurelien (Magix CMS)",
+  "type": "addon",
+  "has_config": true,
+  "plugin_targets": {
+    "Magixcartpay": 1
+  }
+}
